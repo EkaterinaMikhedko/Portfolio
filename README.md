@@ -6,7 +6,7 @@
         <th>Навыки и инструменты</th>
     </tr>
     <tr>
-        <th><a href="https://github.com/EkaterinaMikhedko/Portfolio/blob/main/%D0%A1%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BA%D0%BE%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8%20%D0%B2%20%D0%A0%D0%A4%20%D0%B2%202021%D0%B3./%D0%97%D0%9D%D0%9E.ipynb">Состояние онко помощи в РФ в 2021г.</a></th>
+        <th><a href="https://github.com/EkaterinaMikhedko/Portfolio/blob/main/%D0%A1%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BA%D0%BE%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8%20%D0%B2%20%D0%A0%D0%A4%20%D0%B2%202021%D0%B3./%D0%A1%D0%BE%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%BD%D0%BA%D0%BE%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%B8%20%D0%B2%20%D0%A0%D0%A4.ipynb">Состояние онко помощи в РФ в 2021г.</a></th>
         <th>Задача: Создать дашборд для визуализации ежегодный отчет главного онколога РФ за 2021 год.</th>
         <th>DataLens, Python, Pandas, Numpy</th>
     </tr>
